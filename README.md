@@ -32,9 +32,11 @@ Parts:
 - Small but powerfull Magnets:
       https://www.digikey.com/en/products/detail/radial-magnets-inc/8160/5400480?s=N4IgTCBcDaICwDYCcBGADHFIC6BfIA
       
-- TTGO Driver board w/ Blackberry Keyboard (SELECT ONLY KEYBOARD, not T-Watch Keyboard):
-      https://www.ebay.com/itm/153897482462?_trkparms=amclksrc%3DITM%26aid%3D111001%26algo%3DREC.SEED%26ao%3D1%26asc%3D20160908105057%26meid%3D1ec84fb670c940cc82fc9f39e9e4d4ef%26pid%3D100675%26rk%3D3%26rkt%3D15%26sd%3D262432452730%26itm%3D153897482462%26pmt%3D1%26noa%3D1%26pg%3D2380057&_trksid=p2380057.c100675.m4236&_trkparms=pageci%3A06dc6499-26d1-11ec-9170-ae9e589906a4%7Cparentrq%3A56ceeeed17c0a9f736b8f3fafff9dbd2%7Ciid%3A1
-      
+- TTGO Driver board:
+      https://www.aliexpress.com/item/1005003165296020.html?spm=a2g0o.productlist.0.0.5dfb1326UdbzZB&algo_pvid=c3bff610-5f2b-483d-82e7-f4641fc104b5&algo_exp_id=c3bff610-5f2b-483d-82e7-f4641fc104b5-7&pdp_ext_f=%7B%22sku_id%22%3A%2212000024445168802%22%7D
+  
+- Blackberry Q10 Keyboard:
+      https://www.aliexpress.com/item/32911247103.html?spm=a2g0o.productlist.0.0.27b35184n8jrme&algo_pvid=328ac58e-32bc-44c6-9572-382d714d1d4d&algo_exp_id=328ac58e-32bc-44c6-9572-382d714d1d4d-0&pdp_ext_f=%7B%22sku_id%22%3A%2265895682970%22%7D
       
 The example software relys upon Circuit Python 7.0.0 for the Adafruit Clue: https://learn.adafruit.com/adafruit-clue/circuitpython?gclid=CjwKCAjwkvWKBhB4EiwA-GHjFpHLUFm_4lsH59lyQte9caCZPbg9lnh02VikAmwex8CHMryPSb-zTBoCW7oQAvD_BwE
 
