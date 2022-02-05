@@ -1,5 +1,5 @@
 # Project Open-Blue
-Project Open-Blue
+Project Open-Blue, October 2021
 
 *** DUE TO CURRENT SUPPLY CHAIN ISSUES, NOT ALL PARTS WILL BE AVAILABLE.
 
