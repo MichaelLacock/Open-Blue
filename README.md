@@ -1,6 +1,8 @@
 # Project Open-Blue
 Project Open-Blue
 
+*** DUE TO CURRENT SUPPLY CHAIN ISSUES, NOT ALL PARTS WILL BE AVAILABLE.
+
 "Project Open-Blue" is an Adafruit Clue / BBC Microbit compatible 
 accessory that features an authentic Blackberry Keyboard and 
 supplies power to the device.
